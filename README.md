@@ -14,14 +14,16 @@ Summary: A database interface definition for communication between R and relatio
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-dbi-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-dbi-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-dbi-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-dbi-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-dbi-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-dbi-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-dbi-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-dbi-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-dbi-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-dbi-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-dbi-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-dbi-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-dbi/badges/version.svg)](https://anaconda.org/conda-forge/r-dbi)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-dbi/badges/downloads.svg)](https://anaconda.org/conda-forge/r-dbi)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--dbi-green.svg)](https://anaconda.org/conda-forge/r-dbi) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-dbi.svg)](https://anaconda.org/conda-forge/r-dbi) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-dbi.svg)](https://anaconda.org/conda-forge/r-dbi) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-dbi.svg)](https://anaconda.org/conda-forge/r-dbi) |
 
 Installing r-dbi
 ================
