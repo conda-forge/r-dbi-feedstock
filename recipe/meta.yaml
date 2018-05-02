@@ -1,4 +1,4 @@
-{% set version = "0.8" %}
+{% set version = "1.0.0" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/DBI_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/DBI/DBI_{{ version }}.tar.gz
-  sha256: d52b9e04b3291f9bda8a88c174678f520ddffc5f2edf9b3dfa6d97dca943ce9a
+  sha256: ff16f118eb3f759183441835e932b87358dd80ab9800ce576a8f3df1b6f01cf5
 
 build:
   number: 0
