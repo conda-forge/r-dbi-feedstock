@@ -5,11 +5,9 @@ Home: http://r-dbi.github.io/DBI
 
 Package license: LGPL (>= 2)
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dbi-feedstock/blob/master/LICENSE.txt)
 
 Summary: A database interface definition for communication between R and relational database management systems.  All classes in this package are virtual and need to be extended by the various R/DBMS implementations.
-
-
 
 Current build status
 ====================
