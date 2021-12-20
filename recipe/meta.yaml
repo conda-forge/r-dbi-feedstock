@@ -1,4 +1,4 @@
-{% set version = "1.1.1" %}
+{% set version = "1.1.2" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/DBI_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/DBI/DBI_{{ version }}.tar.gz
-  sha256: 572ab3b8a6421d0ac3e7665c4c842826f1723af98fca25d4f43edb419e771344
+  sha256: 56ec377d471c76ac234ddfd313bd01a050c99fb6fa5f704f5333b34a5d714f58
 
 build:
   merge_build_host: true  # [win]
